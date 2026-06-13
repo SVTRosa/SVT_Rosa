@@ -39,14 +39,3 @@
 
 ---
 
-### 📊 My GitHub Contributions Summary
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThathsaraR&theme=dark&ring=0e75b6&fire=0e75b6&currStreakNum=0e75b6&currStreakLabel=0e75b6&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThathsaraR&hide_border=true&show_icons=true&bg_color=151515&title_color=0e75b6&icon_color=0e75b6&text_bold=false&text_color=9e9e9e" alt="Vihanga's GitHub Stats" />
-</div>
-
----
