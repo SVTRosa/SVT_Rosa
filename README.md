@@ -1,4 +1,4 @@
-# Hi there, I'm Vihanga Rosa! 👋[cite: 1]
+# Hi there, I'm Vihanga Rosa! 
 
 <div align="center">
   <p><strong>A 3rd-year Software Engineering undergraduate with a passion for building practical software solutions.</strong>[cite: 1]</p>
